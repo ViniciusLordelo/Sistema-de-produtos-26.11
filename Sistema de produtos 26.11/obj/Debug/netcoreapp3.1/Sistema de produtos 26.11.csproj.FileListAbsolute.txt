@@ -1,0 +1,13 @@
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\bin\Debug\netcoreapp3.1\Sistema de produtos 26.11.exe
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\bin\Debug\netcoreapp3.1\Sistema de produtos 26.11.deps.json
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\bin\Debug\netcoreapp3.1\Sistema de produtos 26.11.runtimeconfig.json
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\bin\Debug\netcoreapp3.1\Sistema de produtos 26.11.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\bin\Debug\netcoreapp3.1\Sistema de produtos 26.11.dll
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\bin\Debug\netcoreapp3.1\Sistema de produtos 26.11.pdb
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.AssemblyInfo.cs
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.dll
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.pdb
+C:\Users\Líder\Desktop\Liçoes do curso\Sistema de produtos 26.11\obj\Debug\netcoreapp3.1\Sistema de produtos 26.11.genruntimeconfig.cache
